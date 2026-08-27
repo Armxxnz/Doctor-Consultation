@@ -1,6 +1,6 @@
-<!-- ========================= -->
-<!--       ABOUT PROJECT       -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                    ABOUT PROJECT                      -->
+<!-- ====================================================== -->
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 <p>
   <strong>MediCare</strong> is a desktop-based
   <strong>Doctor Consultation & Appointment Management System</strong>
-  developed using Java Swing, JDBC and MySQL.
+  developed using <strong>Java Swing, JDBC and MySQL</strong>.
 </p>
 
 <p>
@@ -22,10 +22,12 @@
 
 <br>
 
+<div align="center">
+
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
 <h2>🎯 The Idea</h2>
 
@@ -35,19 +37,19 @@ manual registration and repeated communication between patients and clinics.
 </p>
 
 <p>
-<strong>MediCare</strong> aims to transform that process into a simple
-digital workflow where patients and doctors can interact with the system
-through dedicated interfaces.
+<strong>MediCare</strong> transforms this process into a simple
+digital workflow where patients and doctors can interact through
+dedicated interfaces.
 </p>
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
 <h2>💡 The Goal</h2>
 
 <p>
-The goal of MediCare is not just to create another CRUD application.
+The goal of MediCare is not simply to create another CRUD application.
 It is an attempt to understand how different software concepts come
 together to form a complete real-world application.
 </p>
@@ -62,7 +64,13 @@ to create a complete appointment management experience.
 </tr>
 </table>
 
+</div>
+
 <br>
+
+<!-- ====================================================== -->
+<!--              TRADITIONAL VS MEDICARE                   -->
+<!-- ====================================================== -->
 
 <div align="center">
 
@@ -70,47 +78,53 @@ to create a complete appointment management experience.
 
 <table>
 <tr>
-<td align="center">
 
-<h3>📄 Traditional</h3>
+<td align="center" width="40%">
+
+<h2>📄 Traditional</h2>
+
+<br>
 
 <p>
-Manual Registration<br>
-↓<br>
-Paper Records<br>
-↓<br>
-Phone Calls<br>
-↓<br>
-Manual Appointment Entry<br>
-↓<br>
+Manual Registration
+<br>↓<br>
+Paper Records
+<br>↓<br>
+Phone Calls
+<br>↓<br>
+Manual Appointment Entry
+<br>↓<br>
 Difficult Record Management
 </p>
 
 </td>
 
-<td align="center">
+<td align="center" width="20%">
 
 <h1>→</h1>
 
 </td>
 
-<td align="center">
+<td align="center" width="40%">
 
-<h3>💻 MediCare</h3>
+<h2>💻 MediCare</h2>
+
+<br>
 
 <p>
-Digital Registration<br>
-↓<br>
-Secure Login<br>
-↓<br>
-Doctor Discovery<br>
-↓<br>
-Appointment Booking<br>
-↓<br>
+Digital Registration
+<br>↓<br>
+Secure Login
+<br>↓<br>
+Doctor Discovery
+<br>↓<br>
+Appointment Booking
+<br>↓<br>
 Centralized Records
 </p>
 
 </td>
+
 </tr>
 </table>
 
@@ -118,25 +132,28 @@ Centralized Records
 
 ---
 
-<!-- ========================= -->
-<!--        FEATURES           -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                     FEATURES                           -->
+<!-- ====================================================== -->
 
 <div align="center">
 
 <h1>✨ What MediCare Offers</h1>
 
-</div>
+<br>
 
 <table>
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td align="center" width="33%">
 
 <h2>👤 Patient</h2>
 
+<br>
+
 <p>
-Register & Login<br>
+Registration<br>
+Login<br>
 Doctor Discovery<br>
 Specialization Search<br>
 Doctor Profiles<br>
@@ -148,9 +165,11 @@ OTP Verification
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td align="center" width="33%">
 
 <h2>👨‍⚕️ Doctor</h2>
+
+<br>
 
 <p>
 Doctor Registration<br>
@@ -165,18 +184,20 @@ Password Management
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td align="center" width="33%">
 
 <h2>🗄️ Database</h2>
 
+<br>
+
 <p>
-MySQL Database<br>
-JDBC Connectivity<br>
+MySQL<br>
+JDBC<br>
 User Records<br>
 Doctor Records<br>
 Patient Information<br>
 Appointment Records<br>
-Profile Pictures
+Profile Picture Paths
 </p>
 
 </td>
@@ -184,11 +205,615 @@ Profile Pictures
 </tr>
 </table>
 
+</div>
+
 ---
 
-<!-- ========================= -->
-<!--       WHAT I LEARNED      -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                SPECIALIZATIONS                         -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<h1>🏥 Medical Specializations</h1>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<h2>❤️</h2>
+<h3>Cardiology</h3>
+<p>Heart & Cardiovascular Care</p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h2>🧴</h2>
+<h3>Dermatology</h3>
+<p>Skin & Dermatological Care</p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h2>🧠</h2>
+<h3>Neurology</h3>
+<p>Nervous System Care</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+<h2>🦴</h2>
+<h3>Orthopedics</h3>
+<p>Bones & Musculoskeletal Care</p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h2>👶</h2>
+<h3>Pediatrics</h3>
+<p>Children's Healthcare</p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h2>🩺</h2>
+<h3>General Medicine</h3>
+<p>General Healthcare</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                    WORKFLOW                            -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<h1>🔄 Experience The Workflow</h1>
+
+<br>
+
+<h2>👤 Patient Journey</h2>
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<strong>🏠 WELCOME</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>📝 REGISTER</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>🔐 LOGIN</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>📊 DASHBOARD</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>🏥 SELECT SPECIALIZATION</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>👨‍⚕️ DISCOVER DOCTOR</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>📅 BOOK APPOINTMENT</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>📋 VIEW BOOKINGS</strong>
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<h2>👨‍⚕️ Doctor Journey</h2>
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<strong>🏠 WELCOME</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>📝 DOCTOR REGISTRATION</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>🔐 DOCTOR LOGIN</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>📊 DOCTOR DASHBOARD</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>👨‍⚕️ PROFESSIONAL PROFILE</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<strong>📋 VIEW PATIENT BOOKINGS</strong>
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                 SYSTEM ARCHITECTURE                    -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<h1>🏗️ System Architecture</h1>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+<h3>🖥️ Java Swing</h3>
+
+Application Interface
+
+</td>
+</tr>
+
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<h3>👤 Patient Module &nbsp;&nbsp; 👨‍⚕️ Doctor Module</h3>
+
+Application Logic
+
+</td>
+</tr>
+
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<h3>🔌 DBLoader / JDBC</h3>
+
+Database Connectivity
+
+</td>
+</tr>
+
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<h3>🗄️ MySQL</h3>
+
+Persistent Data Storage
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                 TECHNOLOGY STACK                       -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<h1>🛠️ Technology Stack</h1>
+
+<br>
+
+<table>
+<tr>
+
+<th align="center">Layer</th>
+<th align="center">Technology</th>
+<th align="center">Purpose</th>
+
+</tr>
+
+<tr>
+
+<td align="center">💻 Language</td>
+<td align="center"><strong>Java</strong></td>
+<td align="center">Application Development</td>
+
+</tr>
+
+<tr>
+
+<td align="center">🎨 GUI</td>
+<td align="center"><strong>Java Swing</strong></td>
+<td align="center">Desktop Interface</td>
+
+</tr>
+
+<tr>
+
+<td align="center">🧩 UI Design</td>
+<td align="center"><strong>NetBeans GUI Builder</strong></td>
+<td align="center">Interface Design</td>
+
+</tr>
+
+<tr>
+
+<td align="center">🗄️ Database</td>
+<td align="center"><strong>MySQL</strong></td>
+<td align="center">Data Storage</td>
+
+</tr>
+
+<tr>
+
+<td align="center">🔌 Connectivity</td>
+<td align="center"><strong>JDBC</strong></td>
+<td align="center">Java–Database Communication</td>
+
+</tr>
+
+<tr>
+
+<td align="center">📧 Email</td>
+<td align="center"><strong>JavaMail</strong></td>
+<td align="center">OTP / Email Functionality</td>
+
+</tr>
+
+<tr>
+
+<td align="center">🖼️ Images</td>
+<td align="center"><strong>ImageIcon</strong></td>
+<td align="center">Profile Picture Handling</td>
+
+</tr>
+
+<tr>
+
+<td align="center">🌱 Version Control</td>
+<td align="center"><strong>Git & GitHub</strong></td>
+<td align="center">Source Code Management</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                     DATABASE                           -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<h1>🗄️ Database Design</h1>
+
+<p>
+MediCare uses MySQL to store and manage users, doctors,
+patients and appointment information.
+</p>
+
+<br>
+
+<table>
+
+<tr>
+
+<th align="center">Table</th>
+<th align="center">Purpose</th>
+
+</tr>
+
+<tr>
+
+<td align="center">👤 Users</td>
+<td align="center">Stores patient account and personal information</td>
+
+</tr>
+
+<tr>
+
+<td align="center">👨‍⚕️ Doctors</td>
+<td align="center">Stores doctor profiles and specialization</td>
+
+</tr>
+
+<tr>
+
+<td align="center">📅 Bookings</td>
+<td align="center">Stores appointment and patient information</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                    SCREENSHOTS                         -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<h1>📸 Screenshots</h1>
+
+<p>
+The following section is ready for application screenshots.
+Add screenshots to the <code>screenshots/</code> folder as the project evolves.
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="50%">
+
+<h3>🏠 Welcome Page</h3>
+
+<br>
+
+<!--
+<img src="screenshots/welcome.png" width="450">
+-->
+
+<i>Screenshot coming soon...</i>
+
+</td>
+
+<td align="center" width="50%">
+
+<h3>👤 User Login</h3>
+
+<br>
+
+<!--
+<img src="screenshots/user-login.png" width="450">
+-->
+
+<i>Screenshot coming soon...</i>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<h3>👨‍⚕️ Doctor Login</h3>
+
+<br>
+
+<!--
+<img src="screenshots/doctor-login.png" width="450">
+-->
+
+<i>Screenshot coming soon...</i>
+
+</td>
+
+<td align="center">
+
+<h3>🩺 Doctor Listing</h3>
+
+<br>
+
+<!--
+<img src="screenshots/doctor-list.png" width="450">
+-->
+
+<i>Screenshot coming soon...</i>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<h3>📅 Appointment Booking</h3>
+
+<br>
+
+<!--
+<img src="screenshots/book-appointment.png" width="450">
+-->
+
+<i>Screenshot coming soon...</i>
+
+</td>
+
+<td align="center">
+
+<h3>📋 User Bookings</h3>
+
+<br>
+
+<!--
+<img src="screenshots/user-bookings.png" width="450">
+-->
+
+<i>Screenshot coming soon...</i>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                 WHAT I LEARNED                         -->
+<!-- ====================================================== -->
 
 <div align="center">
 
@@ -199,16 +824,16 @@ Building MediCare helped me move from writing individual programs
 to understanding how complete software systems are designed.
 </p>
 
-</div>
-
 <br>
 
 <table>
+
 <tr>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-<h3>☕ Java</h3>
+<h2>☕</h2>
+<h3>Java</h3>
 
 <p>
 OOP<br>
@@ -220,9 +845,10 @@ File Handling
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-<h3>🖥️ Swing</h3>
+<h2>🖥️</h2>
+<h3>Java Swing</h3>
 
 <p>
 JFrame<br>
@@ -234,135 +860,45 @@ Dynamic UI
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-<h3>🗄️ SQL</h3>
+<h2>🗄️</h2>
+<h3>SQL</h3>
 
 <p>
 Database Design<br>
 Queries<br>
 Relationships<br>
-CRUD Operations<br>
-Data Management
+CRUD Operations
 </p>
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-<h3>🔌 JDBC</h3>
+<h2>🔌</h2>
+<h3>JDBC</h3>
 
 <p>
-Database Connection<br>
-Query Execution<br>
+Connections<br>
+Queries<br>
 Data Retrieval<br>
-Data Storage<br>
-Application Integration
+Data Storage
 </p>
 
 </td>
 
 </tr>
+
 </table>
-
-<br>
-
-<div align="center">
-
-<h2>📧 Authentication Flow</h2>
-
-<code>
-Forgot Password → Registered Email → OTP → Verification → New Password
-</code>
 
 </div>
 
 ---
 
-<!-- ========================= -->
-<!--       PROJECT VISION      -->
-<!-- ========================= -->
-
-<div align="center">
-
-<h1>🚀 What This Project Represents</h1>
-
-<p>
-MediCare represents an important step in my journey from learning
-programming concepts to building complete applications.
-</p>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<h2>💭 IDEA</h2>
-<p>Identify a real-world problem</p>
-</td>
-
-<td>→</td>
-
-<td align="center">
-<h2>🎨 DESIGN</h2>
-<p>Plan the user experience</p>
-</td>
-
-<td>→</td>
-
-<td align="center">
-<h2>💻 CODE</h2>
-<p>Build the application</p>
-</td>
-
-<td>→</td>
-
-<td align="center">
-<h2>🗄️ DATA</h2>
-<p>Connect the database</p>
-</td>
-
-<td>→</td>
-
-<td align="center">
-<h2>🚀 PRODUCT</h2>
-<p>Turn the idea into reality</p>
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<blockquote>
-
-<h3>
-"Building software isn't just about making code work."
-</h3>
-
-<p>
-It's about understanding the problem, designing the experience,
-structuring the data, solving failures and continuously improving.
-</p>
-
-</blockquote>
-
-</div>
-
----
-
-<!-- ========================= -->
-<!--          ABOUT ME         -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                 ABOUT ME                               -->
+<!-- ====================================================== -->
 
 <div align="center">
 
@@ -373,7 +909,7 @@ structuring the data, solving failures and continuously improving.
 <h3>Aspiring Software Developer</h3>
 
 <p>
-I am a student and aspiring software developer with a strong interest in
+I'm a student and aspiring software developer with a strong interest in
 <strong>Java, Data Structures & Algorithms, SQL, Backend Development
 and Software Engineering.</strong>
 </p>
@@ -387,32 +923,35 @@ concepts theoretically.
 
 <br>
 
+<div align="center">
+
 <table>
+
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
 <h2>💻 What I'm Learning</h2>
 
-<ul>
-<li>☕ Java</li>
-<li>🧠 Data Structures & Algorithms</li>
-<li>🗄️ SQL & Databases</li>
-<li>🔌 JDBC & Backend Fundamentals</li>
-<li>🌐 Backend Development</li>
-<li>🏗️ Software Engineering</li>
-<li>📐 System Design</li>
-</ul>
+<p>
+☕ Java<br>
+🧠 Data Structures & Algorithms<br>
+🗄️ SQL & Databases<br>
+🔌 JDBC & Backend Fundamentals<br>
+🌐 Backend Development<br>
+🏗️ Software Engineering<br>
+📐 System Design
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
 <h2>🎯 What I'm Working Towards</h2>
 
 <p>
-My long-term goal is to become a strong software engineer with
-solid fundamentals in problem solving, backend development,
+My long-term goal is to become a strong software engineer
+with solid foundations in problem solving, backend development,
 databases and system design.
 </p>
 
@@ -424,13 +963,16 @@ but also reliable, maintainable and useful.
 </td>
 
 </tr>
+
 </table>
+
+</div>
 
 ---
 
-<!-- ========================= -->
-<!--     DEVELOPER PHILOSOPHY  -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--               DEVELOPER PHILOSOPHY                     -->
+<!-- ====================================================== -->
 
 <div align="center">
 
@@ -449,37 +991,80 @@ I believe the best way to learn software development is to build things
 that are slightly beyond my current comfort zone.
 </p>
 
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+<h2>🐛</h2>
+
+<h3>Every Bug</h3>
+
 <p>
-Every bug is a problem to understand.<br>
-Every failed implementation is a lesson.<br>
-Every project is an opportunity to improve.
+is a problem<br>
+to understand.
 </p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h2>💡</h2>
+
+<h3>Every Failure</h3>
+
+<p>
+is a lesson<br>
+to learn from.
+</p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h2>🚀</h2>
+
+<h3>Every Project</h3>
+
+<p>
+is an opportunity<br>
+to improve.
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-<!-- ========================= -->
-<!--       MY JOURNEY          -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                    MY JOURNEY                          -->
+<!-- ====================================================== -->
 
 <div align="center">
 
 <h1>🌱 My Journey</h1>
 
-</div>
+<br>
 
 <table>
+
 <tr>
 
 <td align="center" width="20%">
 
 <h2>01</h2>
 
-<p><strong>Learn</strong></p>
+<h3>Learn</h3>
 
 <p>
-Understand the fundamentals
+Understand<br>
+the fundamentals
 </p>
 
 </td>
@@ -488,10 +1073,11 @@ Understand the fundamentals
 
 <h2>02</h2>
 
-<p><strong>Practice</strong></p>
+<h3>Practice</h3>
 
 <p>
-Solve problems and write code
+Solve problems<br>
+and write code
 </p>
 
 </td>
@@ -500,10 +1086,11 @@ Solve problems and write code
 
 <h2>03</h2>
 
-<p><strong>Build</strong></p>
+<h3>Build</h3>
 
 <p>
-Turn ideas into projects
+Turn ideas<br>
+into projects
 </p>
 
 </td>
@@ -512,10 +1099,11 @@ Turn ideas into projects
 
 <h2>04</h2>
 
-<p><strong>Debug</strong></p>
+<h3>Debug</h3>
 
 <p>
-Learn from what breaks
+Learn from<br>
+what breaks
 </p>
 
 </td>
@@ -524,46 +1112,49 @@ Learn from what breaks
 
 <h2>05</h2>
 
-<p><strong>Improve</strong></p>
+<h3>Improve</h3>
 
 <p>
-Become a better engineer
+Become a<br>
+better engineer
 </p>
 
 </td>
 
 </tr>
+
 </table>
+
+</div>
 
 ---
 
-<!-- ========================= -->
-<!--        BIG QUOTE          -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                     BIG QUOTE                          -->
+<!-- ====================================================== -->
 
 <div align="center">
 
 <br>
 
 <h2>
-"The goal isn't to write more code.
-<br>
+"The goal isn't to write more code.<br>
 The goal is to become better at solving problems."
 </h2>
 
-<br>
-
 <p>
-— Armaan Singh
+<strong>— Armaan Singh</strong>
 </p>
+
+<br>
 
 </div>
 
 ---
 
-<!-- ========================= -->
-<!--         CONNECT           -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                    CONNECT                             -->
+<!-- ====================================================== -->
 
 <div align="center">
 
@@ -587,6 +1178,10 @@ I'm always interested in learning, building and improving.
 
 ---
 
+<!-- ====================================================== -->
+<!--                     FOOTER                             -->
+<!-- ====================================================== -->
+
 <div align="center">
 
 <br>
@@ -595,7 +1190,9 @@ I'm always interested in learning, building and improving.
 
 <h1>MEDICARE</h1>
 
-<p><i>Technology with a purpose.</i></p>
+<p>
+<i>Technology with a purpose.</i>
+</p>
 
 <p>
 ☕ Java &nbsp; • &nbsp;
@@ -606,5 +1203,7 @@ I'm always interested in learning, building and improving.
 <br>
 
 ⭐ <strong>If you like this project, consider giving it a star!</strong> ⭐
+
+<br><br>
 
 </div>
